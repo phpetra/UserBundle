@@ -1,0 +1,33 @@
+
+Page:               Pagina
+, Display:          , toon
+of %count%:         van %count%
+Items per page:     Aantal per pagina
+Select visible:     Selecteer zichtbare
+Select all:         Selecteer alle
+Deselect visible:   Zichtbare uitzetten
+Deselect all:       Alle uitvinken
+Action:             Actie
+Submit Action:      Verzenden
+From:               Van:
+To:                 Tot:
+eq:                 is gelijk aan
+neq:                niet gelijk aan
+lt:                 kleiner dan
+lte:                kleiner of gelijk aan
+gt:                 groter dan
+gte:                groter of gelijk aan
+req:                reguliere expressie
+like:               bevat
+nlike:              bevat niet
+rlike:              begint met
+llike:              eindigt met
+btw:                tussen (exclusief)
+btwe:               tussen (inclusief)
+isNull:             is niet gedefiniëerd
+isNotNull:          bestaat
+#%count% Results,:   {0}Geen records gevonden, |{1}%count% record gevonden, |[2, Inf]%count% records gevonden,
+No result:          Geen records gevonden
+Export:             Export
+Reset:              Basis instellingen
+
