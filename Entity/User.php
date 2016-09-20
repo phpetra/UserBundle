@@ -36,7 +36,7 @@ class User extends BaseUser
     {
         parent::__construct();
 
-        $this->roles = array('ROLE_USER');
+        //$this->roles = array('ROLE_MEMBER');
         $this->projects = new ArrayCollection();
     }
 
