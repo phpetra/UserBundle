@@ -14,6 +14,10 @@ Two options: if you want to use the bundle as is, install it in the vendor direc
 	cd Pdx/UserBundle
 	git clone https://github.com/phpetra/UserBundle.git .
 	
+In this situation you need to install the FOSUserBundle separately through composer:
+
+	composer require friendsofsymfony/user-bundle
+	
 ###Install in vendor
 
 Add the following to the `require` section of your composer.json file
